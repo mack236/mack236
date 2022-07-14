@@ -2,7 +2,8 @@
 - 👀 I’m interested in .Net Tech Stack
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Sql Server
-- 📫 How to reach me 773 405 2975
+- 📫 How to reach me 773 405 2975 
+     Some changes
 
 <!---
 mack236/mack236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
